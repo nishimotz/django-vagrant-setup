@@ -1,0 +1,7 @@
+.vagrant
+*.tar.gz
+*.log
+*.png
+*.pyc
+__pycache__
+*.sqlite3
